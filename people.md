@@ -29,6 +29,8 @@ Huioon Kim
 
  * E-mail: pcandme@gist.ac.kr
 
+![Profile Image](http://www.gravatar.com/avatar/{{ 'khg@gist.ac.kr' | md5digest }}.jpg?s=50)
+
 Hyounggyu Kim
 
  * E-mail: [khg@gist.ac.kr](mailto:khg@gist.ac.kr)
