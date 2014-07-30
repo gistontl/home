@@ -60,4 +60,8 @@ Yoonkyung Im
 
 ### Ph.D.
 
+Prof. Young-Geun Han(한영근) (M.S. '99 Ph.D. '03)
+
+ * Assistant Prof., Hanyang Univ. [yghan@hanyang.ac.kr](mailto:yghan@hanyang.ac.kr)
+
 ### M.S
