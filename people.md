@@ -136,11 +136,11 @@ Dr. Hyun-Min Kim(김현민) (M.S. '06 Ph.D. '11)
 
 Keumhyun Yoon(윤금현) (Completed the course of a doctorate)
 
-Kyungwon Chun(전경원)(Ph.D. '13)
+Dr. Kyungwon Chun(전경원)(Ph.D. '13)
 
  * IBS (Institute of Basic Science) <kwchun@ibs.re.kr>
 
-Bongkyun Kim(김봉균)(M.S. 07 Ph.D. '13)
+Dr. Bongkyun Kim(김봉균)(M.S. 07 Ph.D. '13)
 
  * Postdoctoral, Beckman Laser Institute Korea <bkyunkim@gist.ac.kr>
 

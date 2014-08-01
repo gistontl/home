@@ -28,15 +28,15 @@ We develop various calculation and simulation tools.
 
 **Symbolic Computing Package** ([Homepage](http://symbcomp.gist.ac.kr))
 
- The Symbolic Computing Package is an add-on package that facilitates symbolic computation in Mathematica. It enables display and interpretation of derivatives, vector operators and brakets using the traditional notation based on the low-level box language and contains over 700 user-defined functions for notation, manipulation and evaluation of various mathematical expressions.
+The Symbolic Computing Package is an add-on package that facilitates symbolic computation in Mathematica. It enables display and interpretation of derivatives, vector operators and brakets using the traditional notation based on the low-level box language and contains over 700 user-defined functions for notation, manipulation and evaluation of various mathematical expressions.
 
 **XNI** ([Github](http://github.com/hyounggyu/xni))
 
-X-ray Nano Imaging
+Blah blah
 
 **Strobo** ([Github](http://github.com/hyounggyu/strobo))
 
-Full-field optical coherence tomography
+Blah blah
 
 **GMES** ([Sourceforge](http://sourceforge.net/projects/gmes/))
 
@@ -57,10 +57,11 @@ Bigboy is a free program, an implementation of the Finite-Difference Time-Domain
 
 ## Projects
 
-- NCRC
-- 특화
-- KAIST
-- 삼성
+2014
+
+- 다기능 광학 센서 개발 및 응용
+- PRIP기반 광섬유 특성 예측 프로그램 개발(삼성전자)
+- NCRC (세부과제명)
 
 ## Other useful codes
 
