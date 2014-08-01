@@ -8,6 +8,7 @@ laboratory_name: Optical Nano-Technology Laboratory
 affiliation_name: School of Infomation and Communications, Gwangju Institute of Science and Technology
 affiliation_city: Gwangju
 affiliation_country: Republic of Korea
+affiliation_address: Rm 405, Bldg. A, SIC, 123, Cheomdangwagi-ro(St.), Buk-gu, 500-712, Republic of Korea
 
 # Build settings
 markdown: kramdown

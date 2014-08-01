@@ -6,15 +6,10 @@
     <p class="text">{{ site.description }}</p>
 
     <ul>
-      <li></li>
-      <li>{{ site.affiliation_name }}, {{ site.affiliation_city }}, {{ site.affiliation_country }}</li>
-      <li>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li>{{ site.affiliation_name }}</li>
+      <li>{{ site.affiliation_address }}</li>
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a>, subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>, fork me on <a href="http://github.com/gistontl/homepage">GitHub</a></li>
     </ul>
-
-    <ul>
-      <li><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></li>
-    </ul>
-
 
   </div>
 
