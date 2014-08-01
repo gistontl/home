@@ -1,1 +1,1 @@
-jekyll build -d ..\ontl_site
+jekyll build -d %HOMEDRIVE%\%HOMEPATH%\Dropbox\ontl_site
