@@ -12,7 +12,7 @@ Guiding of light at nanometer beam sizes possess many potential applications in 
 
 ### Specialty Optical Fibers and Applications
 
-Blah blah
+Specialty optical fibers are most essential component in optical communication and sensors for fabricating range of optical devices such as optical fiber lasers and amplifiers, dispersion-compensator, and optical sensors. These optical devices can then be used for biomedical applications, long-haul telecommunication, health monitoring of huge civil infrastructures as well as oil and gas applications. We design and fabricate different types of specialty fibers in our laboratory, such as polarization-maintaining optical fibers, microstructured optical fibers for specific applications, nonlinear optical fiber, and photosensitive fibers for Bragg gratings.
 
 ### eScience
 
@@ -44,7 +44,11 @@ GMES is a free finite-difference time-domain (FDTD) simulation Python package de
 
 **Vector FEM** ([Github](http://github.com/gistontl/vfem))
 
-To design and optimize various types of the optical fiber and nanometer-scale waveguide devices, development of simulation tools through the various regimes is being undertaken. Using these simulation tools, optimum parameters that determine properties of the optical fiber and fiber-based devices or subwavelength waveguides can be determined.
+Photonic crystal fibers have attracted growing attention over the past few years because of their ability to offer manipulation in optical properties of light. Such as high-birefringence (HB) exceeding 10^-3 can be straightforwardly attained in PCFs using the design flexibility and the large index contrast. However, manipulation of optical properties is often accompanied with high confinement and propagation losses. A solution to the tradeoff between achieving the desire optical characteristics and the confinement loss lies in the numerical simulation for seeking suitable design and material parameters. Vector Finite element method (VFEM) is one of the best numerical techniques for modeling and simulation of PCF. We have developed an in-house mode-solver based on VFEM for numerical simulation and analysis of the guiding properties of the PCF. As an example, Fig. 1 shows the mesh of a particular design of a PCF and its simulated electric field patterns for fundamental core mode and a higher-order cladding mode.
+
+![Simulation Example]({{ "/images/about/vector-fem.jpg" | prepend: site.baseurl }})
+
+Fig. 1 (a) Mesh of a PCF structure, and (b) simulated electric field patterns for the modes (left to right) LP_01 confined in the core, and LP_02 confined in the cladding.
 
 **Bigboy** ([Sourceforge](http://sourceforge.net/projects/bigboy/))
 
