@@ -232,7 +232,7 @@ Hyunpyo Hong(홍현표)(M.S. '10)
 
 Cui Long(최룡)(M.S. '10)
 
- * Researcher, Nanyang Technological University (NTU)
+ * Research Associate, Nanyang Technological University (NTU)
 
 Boram Kim(김보람)(M.S. '11)
 
